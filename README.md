@@ -1,4 +1,4 @@
-## Hi there! I'M Victor 👋
+## Hi there! I'm Victor 👋
 A Backend Developer with 2+ experience in web development and AI related applications.
 
 
