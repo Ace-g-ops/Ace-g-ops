@@ -1,5 +1,5 @@
 ## Hi there! I'm Victor 👋
-A Backend Developer with 2+ experience in web development and AI related applications.
+A Backend Developer with 3+ experience in web development and AI related applications.
 
 
 - 🔭 I’m currently working on Text-To-Image, AI related projects, and Laravel/Php projects.
